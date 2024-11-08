@@ -1,0 +1,14 @@
+
+blockquote{
+    display: flex;
+    justify-content: center;
+    height: 100px;
+    width:700px;
+    margin: 0 auto;
+    padding-top: 100px;
+    border: 2px solid purple;
+    text-decoration: wavy;
+    border-radius: 4px;
+    background: rgb(174, 174, 217);
+    /* margin: auto auto; */
+}
